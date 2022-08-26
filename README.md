@@ -3,7 +3,7 @@
 I'm Raissa (🔉 hi-ee-sah) Mendonca. I work as the chief data manager for the [*H2Ohio Wetland Monitoring Program*](https://h2.ohio.gov/natural-resources/), which is a branch of the state-wide, collaborative [*H2Ohio*](https://h2.ohio.gov/) water quality initiative. As part of the WMP team, I'm specifically tasked with building tools for complete and consistent (meta)data collection using Esri Survey123, creating automated quality control steps for all our data streams using Python and GitHub Actions, and mucking around in some cool wetlands when I can 😄. I'm also finishing up my PhD in Ecology researching nickel biogeochemistry in stream systems. You can read a bit about my first chapter on [*here*](https://pubs.acs.org/doi/10.1021/acs.est.7b03718).
 
 - 💻 I’m currently working on setting up [@h2ohio-wmp](https://github.com/h2ohio-wmp) for collaborative and transpararent data collection.
-- 🌱 I'm learning more about EML metadata and JavaScript, Unix, and xml.
+- 🌱 I'm learning more about EML metadata and JavaScript, Shell, and xml.
 - 💚💛💙 Originally from Recife, Brazil
 
 #### Where to find me
