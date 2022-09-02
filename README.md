@@ -4,7 +4,7 @@ I'm Raissa (🔉 hi-ee-sah) Mendonca. I work as the chief data manager for the [
 
 - 💻 I’m currently working on developing training materials for Esri Survey123 and GitHub for the WMP team.
 - 💧 I'm in the process of setting up [@h2ohio-wmp](https://github.com/h2ohio-wmp) for collaborative and transpararent data collection.
-- 🌱 I'm learning more about EML metadata and JavaScript, Shell, and xml.
+- 🌱 I'm learning more about EML metadata, JavaScript, Shell, and xml.
 - 🇧🇷 Originally from Recife, Brazil.
 
 #### Where to find me
