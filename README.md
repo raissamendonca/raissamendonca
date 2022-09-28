@@ -16,6 +16,7 @@ I'm Raissa (🔉 hi-ee-sah) Mendonca. I work as the chief data manager for the [
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Google%20App%20Script-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
